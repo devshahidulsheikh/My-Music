@@ -1,0 +1,19 @@
+/*
+Theme Name: My Music
+Theme URI: http://www.abc.com
+Author: Shahidul
+Author URI: http://www.abc.com
+Description: Simple Music Wordpress Theme
+Version: 1.0.1
+Tags: music,song,simple theme
+Textdomain: zboom
+*/
+
+.comment-body .comment-author img {
+    width: 32px;
+    height: 32px;
+}
+.wp-block-search.wp-block-search__button-only
+.wp-block-search__button {
+    min-width: 115px;
+}
